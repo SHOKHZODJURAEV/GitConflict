@@ -6,4 +6,6 @@ public class GitPractice {
      String name  = "Shokhzod";
     }
 
+    private String name;
+
 }
