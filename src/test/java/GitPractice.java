@@ -1,7 +1,21 @@
 public class GitPractice {
+
+
     public static void main(String[] args) {
 
-        System.out.println("Hi this is from Komil");
+     String name  = "Shokhzod";
+     System.out.println("Gulistan ");
+     System.out.println("Hi this is from Komil");
+
 
     }
+
+    private String name;
+    private int age;
+
+
+
+
+
+
 }
