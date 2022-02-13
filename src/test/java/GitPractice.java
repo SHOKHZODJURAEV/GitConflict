@@ -5,6 +5,8 @@ public class GitPractice {
 
      String name  = "Shokhzod";
      System.out.println("Gulistan ");
+     System.out.println("Hi this is from Komil");
+
 
     }
 
