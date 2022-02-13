@@ -7,5 +7,6 @@ public class GitPractice {
     }
 
     private String name;
+    private int age;
 
 }
